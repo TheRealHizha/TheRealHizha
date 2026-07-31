@@ -1,6 +1,7 @@
 # 👋 Hi, I'm TheRealHizha
 
 [![GitHub followers](https://img.shields.io/github/followers/TheRealHizha?label=Follow&style=social)](https://github.com/TheRealHizha)
+![](https://komarev.com/ghpvc/?username=TheRealHizha&color=green)
 
 > *"Where Flutter meets Python, and security is never an afterthought."*
 
