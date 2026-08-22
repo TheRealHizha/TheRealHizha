@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/TheRealHizha?label=Follow&style=social)](https://github.com/TheRealHizha)
 ![](https://komarev.com/ghpvc/?username=TheRealHizha&color=green)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat-square)](https://docs.google.com/presentation/d/1EiALMflG0ccaNs5H0C0hTbksvDD5HyJ_/edit?usp=drive_link&ouid=107071282743683876573&rtpof=true&sd=true)
 
 > *"Where Flutter meets Python, and security is never an afterthought."*
 
