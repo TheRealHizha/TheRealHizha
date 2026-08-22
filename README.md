@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/TheRealHizha?label=Follow&style=social)](https://github.com/TheRealHizha)
 ![](https://komarev.com/ghpvc/?username=TheRealHizha&color=green)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat-square)](https://github.com/TheRealHizha/TheRealHizha/blob/main/TheRealHizha%20-%20Developer%20Portfolio.pptx)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=flat-square)](https://github.com/TheRealHizha/TheRealHizha/raw/refs/heads/main/TheRealHizha%20-%20Developer%20Portfolio.pptx)
 
 > *"Where Flutter meets Python, and security is never an afterthought."*
 
